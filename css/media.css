@@ -1,7 +1,7 @@
 /*Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 320px) {
 	header span{
-	font-size: 72%;
+	font-size: 8pt;
 	}
 	header nav{
 	height: auto;
@@ -66,7 +66,7 @@
 }
 @media (max-width: 575px) and (min-width: 321px){
 	header span{
-	font-size: 11pt;
+	font-size: 10pt;
 	}
 	header nav{
 	height: auto;
@@ -137,6 +137,7 @@
 
 	
 	header span{
+	font-size: 16pt;
 	}
 	header nav{
 	height: auto;

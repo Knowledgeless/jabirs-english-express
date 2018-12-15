@@ -129,12 +129,13 @@ header ul li a{
 .contact-us span{
 }
 footer{
-    background: #393630;
+    background-image: url('../images/footer-img.jpg');
     color: #ffffff;
     font-size: 12pt;
     font-family: Hobo Std;
     overflow: hidden;
     height: 75px;
+
 }
 .footer-content{
     padding: 25px 0;
